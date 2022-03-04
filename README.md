@@ -1,5 +1,5 @@
 # 100ms-tutorial
-## Building a zoom clone with 100ms using vanilla. Javascript.
+## Building a zoom clone with 100ms using vanilla Javascript.
 ### Find the documentation here: https://www.100ms.live/docs/javascript/v2/foundation/basics
 ### Other Blogs that will interest you:
 1. Building Zoom clone in Flutter with 100ms SDK: https://www.100ms.live/blog/zoom-clone-in-flutter
